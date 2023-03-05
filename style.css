@@ -167,19 +167,19 @@ body {
     
 }
 .chapter-1 {
-    background-image: url("/img/chapter_women_background.jpg");
+    background-image: url("../img/chapter_women_background.jpg");
     background-size: cover;
 }
 .chapter-2 {
-    background-image: url("/img/chapter_men_background.jpg");
+    background-image: url("../img/chapter_men_background.jpg");
     background-size: cover;
 }
 .chapter-3 {
-    background-image: url("/img/chapter_kids_background.jpg");
+    background-image: url("../img/chapter_kids_background.jpg");
     background-size: cover;
 }
 .chapter-4 {
-    background-image: url("/img/chapter_accesories_background.jpg");
+    background-image: url("../img/chapter_accesories_background.jpg");
     background-size: cover;
     height: 180px;
     width: 1140px;
@@ -253,22 +253,22 @@ body {
 }
 
 .art_1 {
-    background-image: url('/img/product_article_1.jpg');
+    background-image: url('../img/product_article_1.jpg');
 }
 .art_2 {
-    background-image: url('/img/product_article_2.jpg');
+    background-image: url('../img/product_article_2.jpg');
 }
 .art_3 {
-    background-image: url('/img/product_article_3.jpg');
+    background-image: url('../img/product_article_3.jpg');
 }
 .art_4 {
-    background-image: url('/img/product_article_4.jpg');
+    background-image: url('../img/product_article_4.jpg');
 }
 .art_5 {
-    background-image: url('/img/product_article_5.jpg');
+    background-image: url('../img/product_article_5.jpg');
 }
 .art_6 {
-    background-image: url('/img/product_article_6.jpg');
+    background-image: url('../img/product_article_6.jpg');
 }
 
  .batton_add {
@@ -385,7 +385,7 @@ footer {
 }
 
 .subscription {
-    background-image: url("/img/photo\ subscribe.jpg");
+    background-image: url("../img/photo\ subscribe.jpg");
     background-size: cover;
     
     padding-top: 97px;
